@@ -1,0 +1,12 @@
+# Entorno virtual: se recrea con "pip install -r requirements.txt", no se versiona
+venv/
+
+# Caché que Python genera al ejecutar el código
+__pycache__/
+*.pyc
+
+# Base de datos local: son datos de prueba, no código
+tareas.db
+
+# Configuración personal del editor
+.vscode/
