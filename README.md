@@ -7,6 +7,9 @@ API REST para gestionar tareas, construida con FastAPI y SQLite.
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![Estado](https://img.shields.io/badge/Estado-en%20desarrollo-orange)
 
+
+![Documentación de la API](images/docs.png)
+
 ## ✨ Características
 
 - CRUD completo de tareas (crear, listar, obtener, reemplazar, modificar y eliminar)
