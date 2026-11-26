@@ -1,6 +1,6 @@
 from fastapi import FastAPI, HTTPException 
 from pydantic import BaseModel 
-from database import get_connection, create_table
+from app.database import get_connection, create_table
 
 app = FastAPI()
 create_table()  # Crear la tabla al iniciar la aplicación 
