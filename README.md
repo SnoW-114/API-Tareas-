@@ -60,7 +60,7 @@ La documentación interactiva queda en http://127.0.0.1:8000/docs
 
 ## 🗺️ Próximos pasos
 
-- [ ] Reorganizar el código en módulos
+- [x] Reorganizar el código en módulos
 - [ ] Migrar a SQLAlchemy
 - [ ] Agregar pruebas con pytest
 - [ ] Autenticación de usuarios
